@@ -8,7 +8,7 @@ class RootTab extends StatelessWidget {
     return Scaffold(
       body: Center(
         //TEST
-        child: Text('Root Tab'),
+        child: Text('Root Tab...'),
       ),
     );
   }
