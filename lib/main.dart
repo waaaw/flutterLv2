@@ -18,7 +18,7 @@ class _App extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'NotoSans',
       ),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false, //TEST
       home: SplashScreen(),
     );
   }
